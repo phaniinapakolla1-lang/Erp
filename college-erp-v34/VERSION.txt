@@ -1,1 +1,0 @@
-v3.4 — Phase 1 Hardening: NULL-Role Guards, Self-Role-Escalation Block, Double-Publish Protection, Exam Audit Logs, Modularized Admin Portal
